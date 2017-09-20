@@ -1,7 +1,7 @@
 
 [^/.]\b([O|o][A-Za-z0-9_.-]+@[A-Za-z]+\.[a-z]+)
 
-32 совпадения
+32 СЃРѕРІРїР°РґРµРЅРёР№
 
 To: outlook.team@enron.com
 To: outlook.team@enron.com
